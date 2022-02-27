@@ -47,7 +47,7 @@ for eg:
 2. Type node server.js on your terminal to run this API.
 3. Install Postman to send and get request from the Database.</pre>
 
-## Conatct
+## Contact
 <pre>
 For Any Query or help feel free to contact me at <Strong>aqibaltaf99@gmail.com</Strong>
 And if you liked this API, Make sure to give it a star</pre>
